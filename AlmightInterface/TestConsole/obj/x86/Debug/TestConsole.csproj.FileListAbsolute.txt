@@ -1,0 +1,4 @@
+E:\Projects\AlmightInterface\AlmightInterface\TestConsole\bin\Debug\TestConsole.exe
+E:\Projects\AlmightInterface\AlmightInterface\TestConsole\bin\Debug\TestConsole.pdb
+E:\Projects\AlmightInterface\AlmightInterface\TestConsole\obj\x86\Debug\TestConsole.exe
+E:\Projects\AlmightInterface\AlmightInterface\TestConsole\obj\x86\Debug\TestConsole.pdb

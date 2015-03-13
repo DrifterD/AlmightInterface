@@ -1,0 +1,5 @@
+E:\Projects\AlmightInterface\AlmightInterface\FormMasterKey\bin\Debug\FormMasterKey.dll
+E:\Projects\AlmightInterface\AlmightInterface\FormMasterKey\bin\Debug\FormMasterKey.pdb
+E:\Projects\AlmightInterface\AlmightInterface\FormMasterKey\obj\Debug\FormMasterKey.dll
+E:\Projects\AlmightInterface\AlmightInterface\FormMasterKey\obj\Debug\FormMasterKey.pdb
+E:\Projects\AlmightInterface\AlmightInterface\FormMasterKey\obj\Debug\FormMasterKey.csprojResolveAssemblyReference.cache

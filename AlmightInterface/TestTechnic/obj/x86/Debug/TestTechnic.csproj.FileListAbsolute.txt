@@ -1,0 +1,8 @@
+E:\Projects\AlmightInterface\AlmightInterface\TestTechnic\bin\Debug\TestTechnic.exe
+E:\Projects\AlmightInterface\AlmightInterface\TestTechnic\bin\Debug\TestTechnic.pdb
+E:\Projects\AlmightInterface\AlmightInterface\TestTechnic\obj\x86\Debug\TestTechnic.exe
+E:\Projects\AlmightInterface\AlmightInterface\TestTechnic\obj\x86\Debug\TestTechnic.pdb
+E:\Projects\AlmightInterface\AlmightInterface\TestTechnic\bin\Debug\WebMasterkey.dll
+E:\Projects\AlmightInterface\AlmightInterface\TestTechnic\bin\Debug\Interop.SHDocVw.dll
+E:\Projects\AlmightInterface\AlmightInterface\TestTechnic\bin\Debug\WebMasterkey.pdb
+E:\Projects\AlmightInterface\AlmightInterface\TestTechnic\obj\x86\Debug\TestTechnic.csprojResolveAssemblyReference.cache

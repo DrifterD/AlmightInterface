@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="GBK"?>
+<masterkey period='-1' >
+<pages>
+    <actionpage url='http://222.190.120.106:7002/login.htm' title =''>
+	<elements>
+	    <element id='userId' name ='' type='MKText' value='320100000000002' method='2' />	    
+		<element id='' name ='password' type='MKText'  value='z'/>	
+		<element id='' name ='image' type='MKButton'  value=''/>
+	</elements>
+    </actionpage>
+	<actionpage url='http://www.12306.cn/mormhweb/' title =''>
+	<elements>	   
+		<element id='' name ='' type='MKLink'  value='余票查询'/>
+	</elements>
+    </actionpage>
+
+	<actionpage url='https://kyfw.12306.cn/otn/lcxxcx/init' title =''>
+	<elements>	   
+		<element id='' name ='' type='MKLink'  value='继续浏览此网站(不推荐)。'/>
+	</elements>
+    </actionpage>
+
+</pages>
+</masterkey>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="GBK"?>
+<masterkey period=''(秒为单位) >
+<pages>
+    <actionPage url='' title =''>
+	<elements>
+	    <element id='' name ='' type='MKButton' value='' method=''>
+		<changed class=””/>
+            </element>
+	 	<element id='' name ='' type='MKButton' value='' method='' >
+<changed class=””/>
+       </element>
+
+	    <element id='' name ='' type='MKButton' value='' method='' >
+<changed class=””/>
+       </element>
+
+<element id='' name ='' type='MKButton' value='' method='' >
+<changed class=””>
+       </element>
+<element id='' name ='' type='MKButton' value='' method='' >
+<changed class=””>
+       </element>
+	
+</elements>
+</actionpage>
+<actionpage/>
+.................
+</pages>
+</masterkey>

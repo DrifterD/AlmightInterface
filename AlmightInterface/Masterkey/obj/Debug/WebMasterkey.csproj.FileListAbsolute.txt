@@ -1,0 +1,7 @@
+E:\Projects\AlmightInterface\AlmightInterface\Masterkey\bin\Debug\WebMasterkey.dll
+E:\Projects\AlmightInterface\AlmightInterface\Masterkey\bin\Debug\WebMasterkey.pdb
+E:\Projects\AlmightInterface\AlmightInterface\Masterkey\bin\Debug\Interop.SHDocVw.dll
+E:\Projects\AlmightInterface\AlmightInterface\Masterkey\obj\Debug\Interop.SHDocVw.dll
+E:\Projects\AlmightInterface\AlmightInterface\Masterkey\obj\Debug\WebMasterkey.csproj.ResolveComReference.cache
+E:\Projects\AlmightInterface\AlmightInterface\Masterkey\obj\Debug\WebMasterkey.dll
+E:\Projects\AlmightInterface\AlmightInterface\Masterkey\obj\Debug\WebMasterkey.pdb

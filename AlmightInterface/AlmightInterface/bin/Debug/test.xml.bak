@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="GBK"?>
+<masterkey period='10' >
+<pages>
+    <actionpage url='http://www.baidu.com/' title =''>
+	<elements>
+	    <element id='kw' name ='' type='MKText' value='12306' method='2' />	    
+		<element id='su' name ='' type='MKButton'  value=''/>	
+		<element id='' name ='' type='MKLink'  value='12306铁道部火车票网上订票唯一官网 - 铁路客户服务中心'/>
+	</elements>
+    </actionpage>
+	<actionpage url='http://www.12306.cn/mormhweb/' title =''>
+	<elements>	   
+		<element id='' name ='' type='MKLink'  value='余票查询'/>
+	</elements>
+    </actionpage>
+</pages>
+</masterkey>

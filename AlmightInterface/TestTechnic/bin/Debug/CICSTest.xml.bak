@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="GBK"?>
+<masterkey period='-1' >
+<pages>
+    <actionpage url='http://222.190.120.106:7002/login.htm' title =''>
+	<elements>
+	    <element id='userId' name ='' type='MKText' value='320100000000002' method='2' />	    
+	    <element id='' name ='password' type='MKText'  value='z' method='2'/>	
+	    <element id='' name ='image' type='MKButton'  value=''/>
+	    <element id='' name ='' type='MKLink' inframe="1" value='正常开票'/>
+		<element id='' name ='' type='MKLink' inframe="1" value='通用机打平推式发票-工商业'/>
+		
+	</elements>
+    </actionpage>
+</pages>
+</masterkey>

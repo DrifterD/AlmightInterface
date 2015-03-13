@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XPD:PROJECT xmlns:XPD="http://www.staruml.com" version="1">
+<XPD:HEADER>
+<XPD:SUBUNITS>
+</XPD:SUBUNITS>
+<XPD:PROFILES>
+</XPD:PROFILES>
+</XPD:HEADER>
+<XPD:BODY>
+<XPD:OBJ name="DocumentElement" type="UMLProject" guid="A5yBVuFANEeTmGdCsHOXhgAA">
+<XPD:ATTR name="Title" type="string">IMKTask</XPD:ATTR>
+<XPD:ATTR name="#OwnedElements" type="integer">1</XPD:ATTR>
+<XPD:OBJ name="OwnedElements[0]" type="UMLModel" guid="9ztkz2E1bEWIowiM6415FwAA">
+<XPD:ATTR name="Name" type="string">Model1</XPD:ATTR>
+<XPD:REF name="Namespace">A5yBVuFANEeTmGdCsHOXhgAA</XPD:REF>
+<XPD:ATTR name="#OwnedElements" type="integer">3</XPD:ATTR>
+<XPD:OBJ name="OwnedElements[0]" type="UMLInterface" guid="51ZfUkuDFES5R+qDx3krWgAA">
+<XPD:ATTR name="Name" type="string">IMKTask</XPD:ATTR>
+<XPD:REF name="Namespace">9ztkz2E1bEWIowiM6415FwAA</XPD:REF>
+<XPD:ATTR name="#Operations" type="integer">2</XPD:ATTR>
+<XPD:OBJ name="Operations[0]" type="UMLOperation" guid="Zd25nQ7XaU+xVZ5GSZwefAAA">
+<XPD:ATTR name="Name" type="string">StartTask</XPD:ATTR>
+<XPD:REF name="Owner">51ZfUkuDFES5R+qDx3krWgAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Operations[1]" type="UMLOperation" guid="3uvFosWYyk+NCxYxeFX3qwAA">
+<XPD:ATTR name="Name" type="string">StopTask</XPD:ATTR>
+<XPD:REF name="Owner">51ZfUkuDFES5R+qDx3krWgAA</XPD:REF>
+</XPD:OBJ>
+<XPD:ATTR name="#Attributes" type="integer">1</XPD:ATTR>
+<XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="SCtNTbaUy0OVUhA6dvykmgAA">
+<XPD:ATTR name="Name" type="string">Period</XPD:ATTR>
+<XPD:REF name="Owner">51ZfUkuDFES5R+qDx3krWgAA</XPD:REF>
+</XPD:OBJ>
+</XPD:OBJ>
+<XPD:OBJ name="OwnedElements[1]" type="UMLInterface" guid="G/FIFprP8UG1og2Vj/8inQAA">
+<XPD:ATTR name="Name" type="string">IMKPage</XPD:ATTR>
+<XPD:REF name="Namespace">9ztkz2E1bEWIowiM6415FwAA</XPD:REF>
+<XPD:ATTR name="#Operations" type="integer">1</XPD:ATTR>
+<XPD:OBJ name="Operations[0]" type="UMLOperation" guid="jOhxgaoH+EKaJI/UzRm0CAAA">
+<XPD:ATTR name="Name" type="string">ExecOptions</XPD:ATTR>
+<XPD:REF name="Owner">G/FIFprP8UG1og2Vj/8inQAA</XPD:REF>
+</XPD:OBJ>
+<XPD:ATTR name="#Attributes" type="integer">2</XPD:ATTR>
+<XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="t8ReVWl2i0OmDOuNQy44tQAA">
+<XPD:ATTR name="Name" type="string">PageURL</XPD:ATTR>
+<XPD:REF name="Owner">G/FIFprP8UG1og2Vj/8inQAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Attributes[1]" type="UMLAttribute" guid="wZXedO/E6UmxG2p3xn8R7wAA">
+<XPD:ATTR name="Name" type="string">PageTitle</XPD:ATTR>
+<XPD:REF name="Owner">G/FIFprP8UG1og2Vj/8inQAA</XPD:REF>
+</XPD:OBJ>
+</XPD:OBJ>
+<XPD:OBJ name="OwnedElements[2]" type="UMLInterface" guid="0G5gkNmkIUmQ8oB+sdttXgAA">
+<XPD:ATTR name="Name" type="string">IMKControl</XPD:ATTR>
+<XPD:REF name="Namespace">9ztkz2E1bEWIowiM6415FwAA</XPD:REF>
+<XPD:ATTR name="#Operations" type="integer">1</XPD:ATTR>
+<XPD:OBJ name="Operations[0]" type="UMLOperation" guid="VAvE4UpIl0e/Jz53X0HqYwAA">
+<XPD:ATTR name="Name" type="string">MKEvent</XPD:ATTR>
+<XPD:REF name="Owner">0G5gkNmkIUmQ8oB+sdttXgAA</XPD:REF>
+<XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
+<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="c1kze1NIpEGbM44pJ1b+sAAA">
+<XPD:ATTR name="Name" type="string">mshtml.IHTMLElementCollection</XPD:ATTR>
+<XPD:REF name="BehavioralFeature">VAvE4UpIl0e/Jz53X0HqYwAA</XPD:REF>
+</XPD:OBJ>
+</XPD:OBJ>
+<XPD:ATTR name="#Attributes" type="integer">3</XPD:ATTR>
+<XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="jd5++JmZrEuSFidmsZfyLQAA">
+<XPD:ATTR name="Name" type="string">ControlID</XPD:ATTR>
+<XPD:REF name="Owner">0G5gkNmkIUmQ8oB+sdttXgAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Attributes[1]" type="UMLAttribute" guid="7tTTcdf6r0Glb3E1nWsMMAAA">
+<XPD:ATTR name="Name" type="string">ControlName</XPD:ATTR>
+<XPD:REF name="Owner">0G5gkNmkIUmQ8oB+sdttXgAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Attributes[2]" type="UMLAttribute" guid="YYIdVBGne0qoyzGQ1hTdWQAA">
+<XPD:ATTR name="Name" type="string">ControlValue</XPD:ATTR>
+<XPD:REF name="Owner">0G5gkNmkIUmQ8oB+sdttXgAA</XPD:REF>
+</XPD:OBJ>
+</XPD:OBJ>
+</XPD:OBJ>
+</XPD:OBJ>
+</XPD:BODY>
+</XPD:PROJECT>
