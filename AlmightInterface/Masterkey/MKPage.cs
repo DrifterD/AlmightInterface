@@ -120,7 +120,7 @@ namespace WebMasterkey
           if (!string.IsNullOrEmpty(_pageSource))
             {
                 XmlDocument xmld = new XmlDocument();
-                xmld.LoadXml(_pageSource);
+                xmld.Load(_pageSource);
                 root = xmld.DocumentElement;
             }
 
@@ -255,9 +255,10 @@ namespace WebMasterkey
 
             XmlNode tmpNode = root.SelectSingleNode(tmpIDName);
 
-            if (tmpNode != null)
+            //存在该节点，并且该节点是只读节点
+            if (tmpNode != null && control.Method==2)
             {
-                control.ControlValue = tmpNode.Value;
+                control.ControlValue = tmpNode.InnerText;
             }
         }
     }

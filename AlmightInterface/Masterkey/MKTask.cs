@@ -27,8 +27,7 @@ namespace WebMasterkey
 
         private Timer _taskTimer;
 
-        private List<MKPage> _pages;
-
+        private List<MKPage> _pages;        
 
         public MKTask(string filepath)
         {
@@ -61,7 +60,7 @@ namespace WebMasterkey
 
         public void Save()
         {
-            string filePath = DateTime.Now.ToString("yyyymmddHHMMSS") + ".xml";
+            string filePath = DateTime.Now.ToString("yyyymmddHHMMss") + ".xml";
             Save(filePath);
         }
 
@@ -78,7 +77,7 @@ namespace WebMasterkey
                     if (tmp != null)
                     {
                         XmlElement tmpEle = xmlDoc.CreateElement(tmp.ControlId == String.Empty ? tmp.ControlName : tmp.ControlId);
-                        tmpEle.Value = tmp.ControlValue;
+                        tmpEle.InnerText = tmp.ControlValue;
                         root.AppendChild(tmpEle);
                     }
                 }

@@ -5,3 +5,4 @@ E:\Projects\AlmightInterface\AlmightInterface\Masterkey\obj\Debug\Interop.SHDocV
 E:\Projects\AlmightInterface\AlmightInterface\Masterkey\obj\Debug\WebMasterkey.csproj.ResolveComReference.cache
 E:\Projects\AlmightInterface\AlmightInterface\Masterkey\obj\Debug\WebMasterkey.dll
 E:\Projects\AlmightInterface\AlmightInterface\Masterkey\obj\Debug\WebMasterkey.pdb
+E:\Projects\AlmightInterface\AlmightInterface\Masterkey\obj\Debug\WebMasterkey.csprojResolveAssemblyReference.cache

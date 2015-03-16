@@ -48,12 +48,14 @@ namespace TestTechnic
         {      
                 try
                 {
-                 MKTask   task = new MKTask(Application.StartupPath + "\\" + "zckp.xml");
+                   MKTask   task = new MKTask(Application.StartupPath + "\\" + "zckp_reader.xml");
                     task.StartTask();
                     //while (true)
                     //{
                     //    Command();
                     //}
+                    Thread.Sleep(2000);
+                    task.Save();
                 }
                 catch (Exception ex)
                 {

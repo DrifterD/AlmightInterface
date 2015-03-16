@@ -2,19 +2,19 @@
 <masterkey period='-1' >
 <pages>
     <actionpage url='http://222.190.120.106:7002/login.htm' title ='' source='E:\Projects\AlmightInterface\AlmightInterface\TestTechnic\bin\Debug\values.xml'>
-	<elements>
-
-	    <element id='' inframe="1" name ='ghfMc' type='MKText' value='' method='2' />	    	
-	    <element id='' inframe="1" name ='ghfLxdz' type='MKText'  value='' method='2'/>	
+	<elements>	  
 	
-		<element id='pm1_80111_320100000000002' inframe="1" name ='' type='MKText'  value='' method='2'/>
+		<element id='pm1_80111_320100000000002' inframe="1" name ='' type='MKText'  value='' method='1'/>
 
-        <element id='sl1_80111_320100000000002' inframe="1" name ='' type='MKText'  value='' method='2'/>
+        <element id='sl1_80111_320100000000002' inframe="1" name ='' type='MKText'  value='' method='1'/>
         
-		<element id='dj1_80111_320100000000002' name ='' inframe="1" type='MKText'  value='' method='2'/>
+		<element id='dj1_80111_320100000000002' name ='' inframe="1" type='MKText'  value='' method='1'/>
 
         <element id='ghfNsrsbh_80111_320100000000002' name ='' inframe="1" type='MKText'  value='325652236' method='2'/>
 
+		 <element id='' inframe="1" name ='ghfMc' type='MKText' value='' method='1' />	    	
+	    <element id='' inframe="1" name ='ghfLxdz' type='MKText'  value='' method='1'/>	
+	
 	    <element id='saveAndPrint' name ='' inframe="1" type='MKButton'  value=''/>		
 	</elements>
     </actionpage>
